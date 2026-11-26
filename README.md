@@ -1,3 +1,3 @@
-# Melodys Support
+# Sonus Support
 
-[Read the current Melodys support page](https://devgoio.github.io/app/Melodys/) in English or Simplified Chinese.
+[Read the current Sonus support page](https://devgoio.github.io/app/Sonus/) in English or Simplified Chinese.

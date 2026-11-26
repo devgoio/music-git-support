@@ -1,3 +1,3 @@
-# Melodys Privacy Policy
+# Sonus Privacy Policy
 
-[Read the current Melodys privacy policy page](https://devgoio.github.io/app/Melodys/privacy.html) in English or Simplified Chinese.
+[Read the current Sonus privacy policy page](https://devgoio.github.io/app/Sonus/privacy.html) in English or Simplified Chinese.
